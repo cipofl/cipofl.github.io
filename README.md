@@ -11,10 +11,10 @@ Recommendation letters
 </ul>
 
 
-<a href="https://www.linkedin.com/in/cflorea-r/">LinkedIn</a>
+<a href="https://www.linkedin.com/in/cflorea-r/" target="_blank">LinkedIn</a>
 
 
-<a href="https://github.com/cflorea-r">GitHub</a>
+<a href="https://github.com/cflorea-r" target="_blank">GitHub</a>
 
 
 email
