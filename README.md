@@ -1,21 +1,26 @@
 <a href="/CV%202019%20Ciprian%20Florea.pdf" target="_blank">CV</a>
 
 
-<a href="/CV%202019%20Ciprian%20Florea.pdf" target="_blank">CV</a>
+<a href="CV%202019%20Ciprian%20Florea.pdf" target="_blank">CV</a>
 
 
-## Portofolio
+Portfolio // work in progress
 
 
-## Portofolio
+Recommendation letters
+<ul>
+  <li><a href="">Matti</a></li>
+  <li><a href="">Paula</a></li>
+</ul>
 
 
-## Portofolio
+<a href="https://www.linkedin.com/in/cflorea-r/">LinkedIn</a>
 
-asdasda  
-sd
-asd
-a    
-sd
-asd  
-asd
+
+<a href="https://github.com/cflorea-r">GitHub</a>
+
+
+email
+
+
+phone
