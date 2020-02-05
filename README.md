@@ -2,7 +2,7 @@
   <b>
     CV
   </b>
-</a>  
+</a>
 
 
 Portfolio // work in progress
