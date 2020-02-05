@@ -12,31 +12,31 @@ Recommendation letters
 <ul>
   <li>
     <a href="/Matti.pdf" target="_blank">
-      <strong>
+      <b>
         Matti
-      </strong>
+      </b>
     </a>
   </li>
   <li>
     <a href="/Paula.pdf" target="_blank">
-      <strong>
+      <b>
         Paula
-      </strong>
+      </b>
     </a>
   </li>
 </ul>
 
 
 <a href="https://www.linkedin.com/in/cflorea-r/" target="_blank">
-  <strong>
+  <b>
     LinkedIn
-  </strong>
+  </b>
 </a>
 
 
 <a href="https://github.com/cflorea-r" target="_blank">
-  <strong>
+  <b>
     GitHub
-  </strong>
+  </b>
 </a>
 
