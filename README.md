@@ -1,14 +1,14 @@
 <a href="/CV%202019%20Ciprian%20Florea.pdf" target="_blank">
   <b>
-    CV
+    1. CV
   </b>
 </a>
 
 
-Portfolio // work in progress
+2. Portfolio // work in progress
 
 
-Recommendation letters
+3. Recommendation letters
 <ul>
   <li>
     <a href="/Matti.pdf" target="_blank">
@@ -29,14 +29,14 @@ Recommendation letters
 
 <a href="https://www.linkedin.com/in/cflorea-r/" target="_blank">
   <b>
-    LinkedIn
+    4. LinkedIn
   </b>
 </a>
 
 
 <a href="https://github.com/cflorea-r" target="_blank">
   <b>
-    GitHub
+    5. GitHub
   </b>
 </a>
 
