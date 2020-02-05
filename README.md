@@ -6,8 +6,8 @@ Portfolio // work in progress
 
 Recommendation letters
 <ul>
-  <li><a href="">Matti</a></li>
-  <li><a href="">Paula</a></li>
+  <li><a href="/Matti.pdf">Matti</a></li>
+  <li><a href="/Paula.pdf">Paula</a></li>
 </ul>
 
 
