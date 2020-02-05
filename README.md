@@ -1,7 +1,7 @@
 <a href="/CV%202019%20Ciprian%20Florea.pdf" target="_blank">
-  <strong>
+  <b>
     CV
-  </strong>
+  </b>
 </a>
 
 
