@@ -16,8 +16,3 @@ Recommendation letters
 
 <a href="https://github.com/cflorea-r" target="_blank">GitHub</a>
 
-
-email
-
-
-phone
