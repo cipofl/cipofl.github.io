@@ -48,5 +48,5 @@
       5. GitHub
     </b>
   </a>
-  (mostly private/organization-owned)
+  // mostly private/organization-owned
 </p>
