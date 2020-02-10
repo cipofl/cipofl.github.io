@@ -10,6 +10,19 @@
 <p>
   2. Portfolio // work in progress
 </p>
+<ul>
+  <li>
+      <b>
+        LimpingApp: 
+      </b>
+    An Android app for measuring gait movement by leveraging a smartphone’s
+accelerometer sensor.
+  </li>
+  <li>
+      <b>
+      </b>
+  </li>
+</ul>
 
 
 <p>
