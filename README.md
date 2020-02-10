@@ -22,7 +22,7 @@
         Public cases. 
       </b>
     </a>
-  <br></br></li>
+  <br></li>
   
   <li>
     <b>
