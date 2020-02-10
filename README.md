@@ -14,6 +14,18 @@
   
   <li>
     <b>
+      Virtual City Models: 
+    </b>
+    Studied a virtual 3D city pipeline and techniques to acquire, process and visualize urban data. 
+    <a href="https://www.ouka.fi/oulu/library/virtual-library" target="_blank">
+      <b>
+        Virtual Library. 
+      </b>
+    </a>
+  </li>
+  
+  <li>
+    <b>
       Virtual Library: 
     </b>
     I helped develop a VR application developed together with the Oulu City Library. Users can explore the Virtual Library through a VR headset. 
