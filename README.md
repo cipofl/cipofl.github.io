@@ -8,7 +8,7 @@
 
 
 <p>
-  2. Portfolio demos // work in progress
+  2. Portfolio // work in progress
 </p>
 <ul>
   
