@@ -8,19 +8,23 @@
 
 
 <p>
-  2. Portfolio // work in progress
+  2. Portfolio demos // work in progress
 </p>
 <ul>
   <li>
-      <b>
-        LimpingApp: 
-      </b>
-    An Android app for measuring gait movement by leveraging a smartphone’s
-accelerometer sensor.
+    <b>
+    </b>
   </li>
   <li>
+    <b>
+      LimpingApp: 
+    </b>
+    An Android app for measuring gait movement by leveraging a smartphone’s accelerometer sensor. 
+    <a href="Zeta ucf.apk">
       <b>
+        Download apk.
       </b>
+    </a>
   </li>
 </ul>
 
