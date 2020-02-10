@@ -16,10 +16,10 @@
     <b>
       Virtual City Models: 
     </b>
-    Studied a virtual 3D city pipeline and techniques to acquire, process and visualize urban data. 
-    <a href="https://www.ouka.fi/oulu/library/virtual-library" target="_blank">
+      Studied a virtual 3D city pipeline and techniques to acquire, process and visualize urban data. 
+    <a href="UBISS2017_WorkshopB_FinalPresentation.pdf" target="_blank">
       <b>
-        Virtual Library. 
+        Presentation. 
       </b>
     </a>
   </li>
