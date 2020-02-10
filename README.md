@@ -18,6 +18,18 @@
   
   <li>
     <b>
+      User Involvement Tool PATIO: 
+    </b>
+      I created a VR client for user feedback collection, and a web tool that works as a moderator creation editor. These tools offer an approach to collecting feedback about activities taking place in VR 3D spaces. Through these applications, users can explore spaces and answer geolocated surveys in an interactive and immersive way. 
+    <a href="http://www.playsign.net/cases/" target="_blank">
+      <b>
+        Public cases. 
+      </b>
+    </a>
+  <p></p></li>
+  
+  <li>
+    <b>
       Playsign: 
     </b>
       Tool for drafting, testing, and creating future plans with citizens and other stakeholders. It is an environment that can be visited, played, and experienced before any actual building takes place. 
