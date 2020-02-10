@@ -21,9 +21,9 @@
       User Involvement Tool PATIO: 
     </b>
       I created a VR client for user feedback collection, and a web tool that works as a moderator creation editor. These tools offer an approach to collecting feedback about activities taking place in VR 3D spaces. Through these applications, users can explore spaces and answer geolocated surveys in an interactive and immersive way. 
-    <a href="http://www.playsign.net/cases/" target="_blank">
+    <a href="http://jultika.oulu.fi/files/nbnfioulu-201906272675.pdf" target="_blank">
       <b>
-        Public cases. 
+        Thesis. 
       </b>
     </a>
   <p></p></li>
