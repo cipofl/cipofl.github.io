@@ -142,7 +142,7 @@
         Matti
       </b>
     </a>
-  </li>
+  <p></p></li>
   
   <li>
     <a href="/Paula.pdf" target="_blank">
@@ -186,7 +186,7 @@
   
   <li>
   Florea Ciprian, Alavesa Paula, Arhippainen Leena, Pouke Matti, Huang Weiping, Haukipuro Lotta, Väinämö Satu, Niemelä Arttu, Cortés Orduña Marta, Pakanen Minna Anneli & Ojala Timo (2019). <b>Extending a User Involvement Tool with Virtual and Augmented Reality.</b> In IEEE VR 2019. 
-  </li>
+  <p></p></li>
   
   <li>
   Alatalo, T., Pouke, M., Koskela, T., Hurskainen, T., Florea, C., & Ojala, T. (2017, June). <b>Two real-world case studies on 3D web applications for participatory urban planning.</b> In Proceedings of the 22nd International Conference on 3D Web Technology (p. 11). ACM. 
