@@ -178,7 +178,7 @@
 
 <p>
   <b>
-    6. Publications  
+    6. Publications 
   </b>
 </p>
 <p>
