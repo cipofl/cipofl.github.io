@@ -167,8 +167,10 @@
 <p>
   <a href="https://github.com/cflorea-r" target="_blank">
     <b>
-      5. GitHub
+      5. GitHub 
     </b>
   </a>
-  // mostly private/organization-owned
+  <b>
+    // mostly private/organization-owned
+  </b>
 </p>
