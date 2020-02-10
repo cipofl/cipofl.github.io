@@ -16,6 +16,11 @@
       GoNature Augmented: 
     </b>
     I integrated a plant identification machine learning solution into an online gamified mobile app that collects and identifies plant types using image recognition and crowdsourcing. 
+    <a href="Final presentation.pdf" target="_blank">
+      <b>
+        Presentation.
+      </b>
+    </a>
   </li>
   <li>
     <b>
