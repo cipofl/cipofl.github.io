@@ -16,10 +16,10 @@
     <b>
       Virtual Library: 
     </b>
-    I helped implement a VR application developed together with the Oulu City Library. Users can explore the Virtual Library through a VR headset. 
-    <a href="sdf" target="_blank">
+    I helped develop a VR application developed together with the Oulu City Library. Users can explore the Virtual Library through a VR headset. 
+    <a href="https://www.ouka.fi/oulu/library/virtual-library" target="_blank">
       <b>
-        sdfs
+        Virtual Library. 
       </b>
     </a>
   </li>
