@@ -14,7 +14,19 @@
   
   <li>
     <b>
-      Virtual City Models: 
+      Workshop: From Reality to Virtuality: The Science and Art of Creating VR Experiences: 
+    </b>
+      Studied software frameworks, the Unity3D game engine and VR frameworks, foundations of immersive technology, design and implementation of 3D user interfaces, and how to develop multimodal immersive user experiences. 
+    <a href="https://github.com/Denhonator/UBISS" target="_blank">
+      <b>
+        Project. 
+      </b>
+    </a>
+  </li>
+  
+  <li>
+    <b>
+      Workshop: Virtual City Models: 
     </b>
       Studied a virtual 3D city pipeline and techniques to acquire, process and visualize urban data. 
     <a href="UBISS2017_WorkshopB_FinalPresentation.pdf" target="_blank">
