@@ -17,9 +17,9 @@
       Virtual Library: 
     </b>
     I helped implement a VR application developed together with the Oulu City Library. Users can explore the Virtual Library through a VR headset. 
-    <a href="" target="_blank">
+    <a href="sdf" target="_blank">
       <b>
-        
+        sdfs
       </b>
     </a>
   </li>
