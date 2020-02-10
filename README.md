@@ -8,8 +8,11 @@
 
 
 <p>
-  2. Portfolio // work in progress
+  <b>
+    2. Portfolio // work in progress
+  </b>
 </p>
+
 
 <ul>
   
@@ -113,16 +116,22 @@
 
 
 <p>
-  3. Recommendation letters
+  <b>
+    3. Recommendation letters
+  </b>
 </p>
+
+
 <ul>
+  
   <li>
     <a href="/Matti.pdf" target="_blank">
       <b>
         Matti
       </b>
     </a>
-  </li>
+  <p></p></li>
+  
   <li>
     <a href="/Paula.pdf" target="_blank">
       <b>
