@@ -20,7 +20,7 @@
     <b>
       User Involvement Tool PATIO: 
     </b>
-      I created a VR client for user feedback collection, and a web tool that works as a moderator creation editor. These tools offer an approach to collecting feedback about activities taking place in VR 3D spaces. Through these applications, users can explore spaces and answer geolocated surveys in an interactive and immersive way. 
+      Created a VR client for user feedback collection, and a web tool that works as a moderator creation editor. These tools offer an approach to collecting feedback about activities taking place in VR 3D spaces. Through these applications, users can explore spaces and answer geolocated surveys in an interactive and immersive way. 
     <a href="http://jultika.oulu.fi/files/nbnfioulu-201906272675.pdf" target="_blank">
       <b>
         Thesis. 
@@ -92,7 +92,7 @@
     <b>
       Virtual Library: 
     </b>
-    I helped develop a VR application developed together with the Oulu City Library. Users can explore the Virtual Library through a VR headset. 
+    Helped develop a VR application developed together with the Oulu City Library. Users can explore the Virtual Library through a VR headset. 
     <a href="https://www.ouka.fi/oulu/library/virtual-library" target="_blank">
       <b>
         Virtual Library. 
@@ -104,7 +104,7 @@
     <b>
       GoNature Augmented: 
     </b>
-    I integrated a plant identification machine learning solution into an online gamified mobile app that collects and identifies plant types using image recognition and crowdsourcing. 
+    Integrated a plant identification machine learning solution into an online gamified mobile app that collects and identifies plant types using image recognition and crowdsourcing. 
     <a href="Final presentation.pdf" target="_blank">
       <b>
         Presentation.
