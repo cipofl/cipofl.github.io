@@ -14,6 +14,18 @@
   
   <li>
     <b>
+      MindMyths: 
+    </b>
+      Immersive mindful meditation VR app. 
+    <a href="http://mindmyths.eu/" target="_blank">
+      <b>
+        MindMyths. 
+      </b>
+    </a>
+  </li>
+  
+  <li>
+    <b>
       Nyheim: 
     </b>
       Multiplatform digital board game. 
