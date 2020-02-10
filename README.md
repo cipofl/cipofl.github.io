@@ -11,6 +11,19 @@
   2. Portfolio demos // work in progress
 </p>
 <ul>
+  
+  <li>
+    <b>
+      Virtual Library: 
+    </b>
+    I helped implement a VR application developed together with the Oulu City Library. Users can explore the Virtual Library through a VR headset. 
+    <a href="" target="_blank">
+      <b>
+        
+      </b>
+    </a>
+  </li>
+  
   <li>
     <b>
       GoNature Augmented: 
@@ -22,6 +35,7 @@
       </b>
     </a>
   </li>
+  
   <li>
     <b>
       LimpingApp: 
@@ -33,6 +47,7 @@
       </b>
     </a>
   </li>
+  
 </ul>
 
 
