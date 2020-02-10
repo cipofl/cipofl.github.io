@@ -130,7 +130,7 @@
         Matti
       </b>
     </a>
-  <p></p></li>
+  </li>
   
   <li>
     <a href="/Paula.pdf" target="_blank">
