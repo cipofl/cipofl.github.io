@@ -14,6 +14,18 @@
   
   <li>
     <b>
+      Nyheim: 
+    </b>
+      Multiplatform digital board game. 
+    <a href="https://www.happyhobgoblin.com/nyheim-1" target="_blank">
+      <b>
+        Nyheim. 
+      </b>
+    </a>
+  </li>
+  
+  <li>
+    <b>
       Workshop: From Reality to Virtuality: The Science and Art of Creating VR Experiences: 
     </b>
       Studied software frameworks, the Unity3D game engine and VR frameworks, foundations of immersive technology, design and implementation of 3D user interfaces, and how to develop multimodal immersive user experiences. 
