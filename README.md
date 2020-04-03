@@ -166,7 +166,7 @@
 
 
 <p>
-  <a href="https://github.com/cflorea-r" target="_blank">
+  <a href="https://github.com/cipofl" target="_blank">
     <b>
       5. GitHub 
     </b>
