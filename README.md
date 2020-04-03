@@ -157,7 +157,7 @@
 
 
 <p>
-  <a href="https://www.linkedin.com/in/cflorea-r/" target="_blank">
+  <a href="https://www.linkedin.com/in/cipofl/" target="_blank">
     <b>
       4. LinkedIn
     </b>
