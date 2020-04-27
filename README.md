@@ -166,20 +166,8 @@
 
 
 <p>
-  <a href="https://github.com/cipofl" target="_blank">
-    <b>
-      5. GitHub 
-    </b>
-  </a>
   <b>
-    // mostly private/organization-owned
-  </b>
-</p>
-
-
-<p>
-  <b>
-    6. Publications 
+    5. Publications 
   </b>
 </p>
 
