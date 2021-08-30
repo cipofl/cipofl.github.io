@@ -1,5 +1,5 @@
 <p>
-  <a href="/CIPRIAN%20FLOREA%20CV%202021.pdf" target="_blank">
+  <a href="/CIPRIAN FLOREA CV 2021.pdf" target="_blank">
     <b>
       1. CV
     </b>
